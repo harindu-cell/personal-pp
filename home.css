@@ -1,0 +1,29 @@
+*{
+    color:aliceblue;
+    text-align: center;
+    /* outline: solid 1px yellow; */
+}
+body{
+    background-color: rgb(36, 36, 36);
+}
+
+.profile{
+
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+    background-image: url(images/gojo.jpg);
+    background-size: cover;
+    background-position: center;
+
+    border-radius: 100px;
+}
+.profile-image{
+    width: 100px;
+}
+.contact{
+    display: grid;
+}
+.contact a{
+    margin: 10px;
+}

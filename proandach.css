@@ -1,0 +1,13 @@
+*{
+    color: aliceblue;
+    /* align-items: center; */
+    text-align: center;
+}
+
+body{
+    background-color: rgb(36, 35, 35);
+}
+
+img{
+    height: 200px;
+}
